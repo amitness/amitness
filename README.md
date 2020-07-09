@@ -10,5 +10,5 @@ I work at the intersection of research and engineering solving impactful industr
 - 🔭 I’m currently building a conversational survey platform to better understand users
 - ✍️ I write [visual explanations](https://amitness.com) of Machine Learning research
 - 🌱 I'm a strong believer of taking [small steps](https://github.com/amitness/learning) each day to get better at my craft.
-- 📫 How to reach me: [Twitter](https://twitter.com/amitness), [LinkedIn](https://www.linkedin.com/in/amitness)
+- 📫 I would love to connect with you on [Twitter](https://twitter.com/amitness)
 
