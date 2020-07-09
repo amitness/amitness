@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 
+I work at the intersection of research and engineering solving impactful industry problems with Machine Learning. 
 
-
-- 🔭 I’m currently working on a conversational survey platform.
-- 🌱 I'm currently going wide and deep in the multidisciplinary fields of data science.
-- 📫 How to reach me: [twitter](https://twitter.com/amitness)
+- 🔭 I’m currently working on a conversational survey platform
+- 🌱 I'm also a strong believer of taking small steps each day to get better at my craft. [Here's](https://github.com/amitness/learning) what I am learning right now.
+- 📫 How to reach me: [Twitter](https://twitter.com/amitness)
 - 😄 Pronouns: He/him
 
-[My Site](https://amitness.com) • [Twitter](https://twitter.com/amitness) • [LinkedIn](https://www.linkedin.com/in/amitness)
+[Personal Blog](https://amitness.com) • [Twitter](https://twitter.com/amitness) • [LinkedIn](https://www.linkedin.com/in/amitness)
