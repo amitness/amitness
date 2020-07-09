@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I work at the intersection of research and engineering solving impactful industry problems with Machine Learning. 
 
 - 🔭 I’m currently working on a conversational survey platform
-- 🌱 I'm also a strong believer of taking small steps each day to get better at my craft. [Here's](https://github.com/amitness/learning) what I am learning right now.
+- 🌱 I'm also a strong believer of taking [small steps](https://github.com/amitness/learning) each day to get better at my craft.
 - 📫 How to reach me: [Twitter](https://twitter.com/amitness)
 - 😄 Pronouns: He/him
 
