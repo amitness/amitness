@@ -12,3 +12,4 @@ I work at the intersection of research and engineering solving impactful industr
 - 🌱 I'm a strong believer of taking [small steps](https://github.com/amitness/learning) each day to get better at my craft.
 - 📫 I would love to connect with you on [Twitter](https://twitter.com/amitness)
 
+![](https://hits.dwyl.com/amitness/amitness.svg)
