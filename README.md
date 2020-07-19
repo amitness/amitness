@@ -10,6 +10,6 @@ I work at the intersection of research and engineering solving impactful industr
 - 🔭 I’m currently building a conversational survey platform to better understand users
 - ✍️ I write [visual explanations](https://amitness.com) of Machine Learning research
 - 🌱 I'm a strong believer of taking [small steps](https://github.com/amitness/learning) each day to get better at my craft.
-- 📫 I would love to connect with you on [Twitter](https://twitter.com/amitness)
 
-![](https://hits.dwyl.com/amitness/amitness.svg)
+![](https://hits.dwyl.com/amitness/amitness.svg) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/amitness?style=social)](https://twitter.com/amitness)
