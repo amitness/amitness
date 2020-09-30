@@ -13,4 +13,3 @@ I work at the intersection of research and engineering solving impactful industr
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitness?label=Follow&style=social)](http://bit.ly/amitnesstwitter)
 [![last learned](https://img.shields.io/github/last-commit/amitness/learning?label=last%20learned&style=flat-square)](https://github.com/amitness/learning)
-![](https://hits.dwyl.com/amitness/amitness.svg) 
