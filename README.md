@@ -11,5 +11,5 @@ I work at the intersection of research and engineering solving impactful industr
 - ✍️ I write [visual explanations](https://amitness.com) of Machine Learning research
 - 🌱 I'm a strong believer of taking [small steps](https://github.com/amitness/learning) each day to get better at my craft. 
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/amitness?label=Follow&style=social)](http://bit.ly/amitnesstwitter)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amitness?label=Follow&style=social)](https://twitter.com/amitness)
 [![learned](https://img.shields.io/github/last-commit/amitness/learning?label=learned&style=flat-square)](https://github.com/amitness/learning)
