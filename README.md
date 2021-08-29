@@ -11,6 +11,8 @@ I work at the intersection of research and engineering solving impactful industr
 - ✍️ I write [visual explanations](https://amitness.com) of Machine Learning research
 - 🌱 I strongly believe in taking [small steps](https://github.com/amitness/learning) each day to get better at my craft. 
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/amitness?label=Follow&style=social)](https://twitter.com/amitness)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amitness)
+<span>
+  <a href="https://twitter.com/amitness"><img src="https://img.shields.io/twitter/follow/amitness?label=Follow&style=social"/></a>
+<a href="https://www.buymeacoffee.com/amitness"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="24"/></a>
+</span>
