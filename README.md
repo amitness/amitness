@@ -14,5 +14,4 @@ I work at the intersection of research and engineering solving impactful industr
 
 <span>
   <a href="https://twitter.com/amitness"><img src="https://img.shields.io/twitter/follow/amitness?label=Follow&style=social"/></a>
-<a href="https://www.buymeacoffee.com/amitness"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="24"/></a>
 </span>
