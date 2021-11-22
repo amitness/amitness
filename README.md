@@ -5,8 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-I work at the intersection of research and engineering solving impactful industry problems.
-
 - 🔭 I’m currently back to grad school pursuing an MS in Computational Linguistics at [CIMEC](https://www.cimec.unitn.it/en) 
 - ✍️ I write [visual explanations](https://amitness.com) of Machine Learning research
 - 🌱 I strongly believe in taking [small steps](https://github.com/amitness/learning) each day to get better at my craft. 
