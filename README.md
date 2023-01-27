@@ -11,5 +11,5 @@ Here are some ideas to get you started:
   
 
 <span>
-  <a href="https://twitter.com/amitness"><img src="https://img.shields.io/twitter/follow/amitness?label=Follow&style=social"/></a>
+  <a href="https://twitter.com/amitness"><img src="https://img.shields.io/twitter/follow/amitness"/></a>
 </span>
